@@ -4,3 +4,4 @@
 *.md text eol=lf
 mvnw text eol=lf
 mvnw.cmd text eol=crlf
+results/*.txt -whitespace

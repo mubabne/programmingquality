@@ -3,4 +3,5 @@ target/
 .vscode/
 .DS_Store
 *.iml
+*.docx
 /.tools/
