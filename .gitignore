@@ -1,0 +1,8 @@
+target/
+.idea/
+.vscode/
+.DS_Store
+*.iml
+*.docx
+/starter.zip
+/.tools/
