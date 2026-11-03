@@ -4,4 +4,5 @@ target/
 .DS_Store
 *.iml
 *.docx
+/starter.zip
 /.tools/
